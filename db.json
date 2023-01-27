@@ -1,0 +1,93 @@
+
+      {
+        "sanskrit-py-10":[
+            {
+            "id":1,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Model Paper 2022",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-model.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-model.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":2,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Sample Paper set-1 2022",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-sample1.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-sample1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":3,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Sample Paper set-2 2022",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-sample2.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-sample2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":4,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Sample Paper set-3 2022",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-sample3.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-10-22-sample3.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":5,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Model Paper-1 2023",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-10-23-model.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-10-23-model.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":6,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Model Paper-2 2023",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-10-23-model2.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-10-23-model2.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":7,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Previous Year Paper 2018 Second Set-4",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-18-set-4.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-18-set-4.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          },
+          {
+            "id":8,
+            "subject":"sanskrit",
+            "image":"sanskrit",
+            "description":"Sanskrit  class 10th - Previous Year Paper 2022 Set-1",
+            "download":"assets/images/exam-10/sanskrit-10/sanskrit-22-set-1.pdf",
+            "view":"assets/images/exam-10/sanskrit-10/sanskrit-22-set-1.pdf",
+            "author":"Tushar",
+            "class":"class-10"
+          
+          }
+        ]
+      }
